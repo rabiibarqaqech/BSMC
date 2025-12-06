@@ -13,3 +13,12 @@ body{
     text-align: right;
     
 }
+.homeNavbar{
+    text-decoration-line: none;
+    color: rgb(132, 112, 0);
+    border: 2px solid;
+    padding-top: auto;
+    padding-bottom: auto;
+    padding-left: 2%;
+    padding-right:2% ;
+}
