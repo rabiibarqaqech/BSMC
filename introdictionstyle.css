@@ -1,5 +1,7 @@
 body{
     background: rgb(231, 231, 231);
+    width: auto;
+    height: auto;
 }
 #homeimg{
     width: 50px;
@@ -21,4 +23,5 @@ body{
     padding-bottom: auto;
     padding-left: 2%;
     padding-right:2% ;
+    white-space: pre-wrap;
 }

@@ -18,10 +18,8 @@ fieldset{
     margin: 150px auto 10px auto;
     background: white;
     padding: 20px; 
-    border-right: 5px rgba(0, 0, 0, 0.363) solid;
-    border-bottom: 5px rgba(0, 0, 0, 0.363) solid;
-    border-left: none;
-    border-top: none;
+    border: none;
+    box-shadow: 8px 8px 5px gray;
     border-radius: 10px;
 }
 #v{
