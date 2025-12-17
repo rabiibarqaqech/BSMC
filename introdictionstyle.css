@@ -9,7 +9,7 @@ body{
 }
 #homename{
     display: inline;
-    color: rgb(132, 112, 0);
+    color: rgb(212, 160, 23);
 }
 #homeNavbar{
     text-align: right;
@@ -17,8 +17,8 @@ body{
 }
 .homeNavbar{
     text-decoration-line: none;
-    color: rgb(132, 112, 0);
-    border: 2px solid;
+    color: rgb(212, 160, 23);
+    border: 2px solid rgb(132, 112, 0);
     padding-top: auto;
     padding-bottom: auto;
     padding-left: 2%;
